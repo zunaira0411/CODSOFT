@@ -26,9 +26,17 @@ Task 1: Titanic Survival Prediction
 - Built a machine learning model to predict passenger survival using the Kaggle Titanic dataset.
 - Evaluated model performance using classification metrics.
 
-Task 2
+Task 2 : Iris Flower Classification
 
-(To be added)
+Performed data preprocessing and data cleaning.
+
+Conducted Exploratory Data Analysis (EDA) using various visualizations.
+
+Analyzed flower characteristics such as sepal length, sepal width, petal length, and petal width.
+
+Built a machine learning classification model to classify iris flowers into different species.
+
+Evaluated model performance using accuracy score, confusion matrix, and classification report.
 
 Task 3
 
@@ -43,6 +51,8 @@ Key Learning Outcomes
 - Machine Learning Model Building
 - Model Evaluation
 
-Author
-Zunaira Fatima
-Data Science Intern at CodSoft
+# Author
+
+# Zunaira Fatima
+
+# Data Science Intern at CodSoft
