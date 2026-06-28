@@ -1,13 +1,17 @@
+<p align="center">
+<image src="https://avatars.githubusercontent.com/u/140811627?s=280&v=4" width="300">
+</p>
+  
 # CODSOFT
-Data Science Internship Tasks for CodSoft Internship Program.
+<b>Data Science Internship Tasks for CodSoft Internship Program.</b>
 
 This repository contains the tasks completed during my Data Science Internship at CodSoft.
 
-About
+<b>About</b>
 
 The purpose of this internship is to gain practical experience in Data Science, Data Analysis, Data Visualization, and Machine Learning by working on real-world datasets and projects.
 
-Tools and Technologies
+<b>Tools and Technologies</b>
 
 - Python
 - Pandas
@@ -17,16 +21,16 @@ Tools and Technologies
 - Scikit-learn
 - Google Colab
 
-Tasks
+<b>Tasks
 
-Task 1: Titanic Survival Prediction
+Task 1: Titanic Survival Prediction</b>
 
 - Performed data preprocessing and cleaning.
 - Conducted Exploratory Data Analysis (EDA).
 - Built a machine learning model to predict passenger survival using the Kaggle Titanic dataset.
 - Evaluated model performance using classification metrics.
 
-Task 2 : Iris Flower Classification
+<b>Task 2 : Iris Flower Classification</b>
 
 - Performed data preprocessing and data cleaning.
 - Conducted Exploratory Data Analysis (EDA) using various visualizations.
@@ -38,7 +42,7 @@ Task 3
 
 (To be added)
 
-Key Learning Outcomes
+<b>Key Learning Outcomes</b>
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -47,8 +51,8 @@ Key Learning Outcomes
 - Machine Learning Model Building
 - Model Evaluation
 
-# Author
+<b>Author
 
-# Zunaira Fatima
+ Zunaira Fatima
 
-# Data Science Intern at CodSoft
+Data Science Intern at CodSoft</b>
